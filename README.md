@@ -1,4 +1,4 @@
-**Tes Programmer Diskominfo DIY – Bagian A**
+--------------------- **Tes Programmer Diskominfo DIY – Bagian A** ---------------------
 Database Project: “sekolahku”
 
 Repository ini berisi script SQL untuk pembuatan dan pengujian database sederhana bernama sekolahku, yang digunakan dalam Tes Tenaga Ahli Programmer Diskominfo DIY (Bagian A).
@@ -70,7 +70,7 @@ phpMyAdmin
 
 Visual Studio Code
 
-**Tes Programmer Diskominfo DIY – Bagian B**
+--------------------- **Tes Programmer Diskominfo DIY – Bagian B** ---------------------
 
 Terdapat pada Sub Folder Repositori ini dengan nama sekolahku-app
 
