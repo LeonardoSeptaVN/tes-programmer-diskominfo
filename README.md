@@ -19,7 +19,7 @@ XAMPP atau MySQL Server
 
 phpMyAdmin (opsional)
 
-Text editor (misal VS Code)
+Text editor (VS Code, dll)
 
 2. Buat Folder Project
 mkdir tes-programmer-diskominfo
@@ -36,7 +36,6 @@ Jalankan seluruh isi file database.sql
 hapus dulu database lama:
 
 DROP DATABASE sekolahku;
-
 
 lalu jalankan ulang script.
 
@@ -67,7 +66,7 @@ Tabel relasi antara siswa dan mata kuliah.
 
 MySQL / MariaDB (via XAMPP)
 
-phpMyAdmin (untuk kemudahan eksekusi)
+phpMyAdmin
 
 Visual Studio Code
 
