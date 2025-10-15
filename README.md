@@ -70,6 +70,10 @@ phpMyAdmin
 
 Visual Studio Code
 
+**Tes Programmer Diskominfo DIY – Bagian B**
+
+Terdapat pada Sub Folder Repositori ini dengan nama sekolahku-app
+
 **Lisensi**
 
 Proyek ini bersifat open-source dan dapat digunakan untuk keperluan belajar atau pengujian teknis.
